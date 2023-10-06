@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Enabled IIS (Internet Information Services)
-- Installed MySQL and setup username and password
+- Installed MySQL with HeidiSQL client
 - Installed C++ redistributable
 - Configured permissions and installed osTicket
 
