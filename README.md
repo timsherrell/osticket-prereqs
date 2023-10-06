@@ -17,34 +17,59 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enabled IIS (Internet Information Services)
+- Installed MySQL and setup username and password
+- Installed C++ redistributable
+- Configured permissions and installed osTicket
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/dda6d761-63bd-4a9f-8ca6-c68d3a52f574"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/2c26b2bf-dcb0-48f7-af7e-ffacf21aeb30" />
+</p>
+<p>
+Enabled Internet Information Services web server 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/dbdb59b5-4c7b-40f1-90ad-e17c736d55ee" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img src="![image](https://github.com/timsherrell/osticket-prereqs/assets/144177449/83378b0b-b5e3-4557-8b42-f6b66f0a68a2)
+" />
+</p>
+<p>
+  Installed and registered PHP in IIS
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/4944daf1-b712-4324-9ca6-667789536aad"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/d13a8e73-7628-4878-ae31-d171d642d5f3" />
+</p>
+<p>
+Installed MySQL server and HeidiSQL for osTicket database
 </p>
 <br />
+
+<p>
+<img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/08f24a02-75db-4f55-b816-06fc68034d61" />
+</p>
+<p>
+Installed C++ Redistributable
+</p>
+<br />
+
+<p>
+  <img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/5d9754b6-7243-4011-9224-a7418664b961" />
+</p>
+Installed osTicket
+<p>
+  
+</p>
