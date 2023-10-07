@@ -19,8 +19,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enabled IIS (Internet Information Services)
 - Installed and registered PHP in IIS
-- Installed MySQL with HeidiSQL client
 - Installed C++ redistributable
+- Installed MySQL with HeidiSQL client
 - Configured permissions and installed osTicket
 
 <h2>Installation Steps</h2>
@@ -33,6 +33,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Enabled Internet Information Services web server 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/08f24a02-75db-4f55-b816-06fc68034d61" />
+</p>
+<p>
+Installed C++ Redistributable
 </p>
 <br />
 
@@ -55,14 +63,6 @@ Enabled Internet Information Services web server
 </p>
 <p>
 Installed MySQL server and HeidiSQL for osTicket database
-</p>
-<br />
-
-<p>
-<img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/08f24a02-75db-4f55-b816-06fc68034d61" />
-</p>
-<p>
-Installed C++ Redistributable
 </p>
 <br />
 
