@@ -37,7 +37,7 @@ Alternatively, we can right-click on the Start button and click 'Run,' then type
 
 This will bring up the Windows Features window where we will choose the options necessary to install IIS.
 
-
+![IIS Installation](https://github.com/timsherrell/osticket-prereqs/blob/main/ISS%20install.gif)
 
 <p>
 <img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/dda6d761-63bd-4a9f-8ca6-c68d3a52f574"/>
