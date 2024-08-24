@@ -25,7 +25,11 @@ This project outlines the prerequisites and installation of the open-source help
 
 <h2>Installation Steps</h2>
 
-In this tutorial we are going to setup a local server with IIS (Internet Information Services) in Windows. This is so we can later setup the free ticketing system osTicket running on the server. I have another tutorial dedicated to that.  
+In this first part of this tutorial we are going to setup a local server with IIS (Internet Information Services) in Windows. If all you need to know is how to set this up you can stop after we've pulled up the broswer and navigated to our local IP address. 
+
+In the second part we will setup the free ticketing system osTicket running on the IIS server.
+
+Let's get into it.
 
 First hit Windows Key + R to bring up the "Run" dialog box. In the field type "optionalfeature" and hit enter. This will bring up the "Windows Features" window. 
 
