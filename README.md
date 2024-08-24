@@ -35,7 +35,11 @@ Alternatively, we can right-click on the Start button and click 'Run,' then type
 
 ![run optional features](https://github.com/timsherrell/osticket-prereqs/blob/main/optionalfeatures1.gif)
 
-This will bring up the Windows Features window where we will choose the options necessary to install IIS.
+This will bring up the Windows Features window where we will choose the options necessary to install IIS. 
+
+From here, check the box next to Internet Information Services and click the '+' next to it to expand it. Expand Application Development Features click the CGI box, then collapse Application Development Features again by hitting the '-' next to it. Exapnd Common HTTP Features, make sure all the boxes are checked. 
+
+Click OK. 
 
 ![IIS Installation](https://github.com/timsherrell/osticket-prereqs/blob/main/ISS%20install.gif)
 
