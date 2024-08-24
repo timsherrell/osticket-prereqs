@@ -47,6 +47,10 @@ Click OK.
 
 ![IIS Installation](https://github.com/timsherrell/osticket-prereqs/blob/main/ISS%20install.gif)
 
+Internet Information Services should be working now. We can check by opening a browser and navigating to 127.0.0.1 in the address bar. This should bring up the Internet Information Services website. If it doesn't you may need to uninstall and reinstall again by going back to Windows Features, unclicking and reclicking everything again. 
+
+
+
 <p>
   <img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/2c26b2bf-dcb0-48f7-af7e-ffacf21aeb30" />
 </p>
