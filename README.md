@@ -44,9 +44,6 @@ Click OK.
 ![IIS Installation](https://github.com/timsherrell/osticket-prereqs/blob/main/ISS%20install.gif)
 
 <p>
-<img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/dda6d761-63bd-4a9f-8ca6-c68d3a52f574"/>
-</p>
-<p>
   <img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/2c26b2bf-dcb0-48f7-af7e-ffacf21aeb30" />
 </p>
 <p>
