@@ -2,7 +2,10 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation (In Progress) </h1>
+<h1>osTicket - Prerequisites and Installation (Draft) </h1>
+
+**Note: This project is currently a work in progress. Updates and additional details are being added regularly.**
+
 This project outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
