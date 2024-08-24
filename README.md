@@ -25,9 +25,11 @@ This project outlines the prerequisites and installation of the open-source help
 
 <h2>Installation Steps</h2>
 
-We are going to setup a local server on our computer and use that to run osTicket - an open source, free ticketing system. Later we will configure that system but here we will install various depedencies and get it up and running. 
+In this tutorial we are going to setup a local server with IIS (Internet Information Services) in Windows. This is so we can later setup the free ticketing system osTicket running on the server. I have another tutorial dedicated to that.  
 
-First hit Windows Key + R to bring up the "Run" dialog box. In the field type "optionalfeature." This will bring up the "Windows Features" window. 
+First hit Windows Key + R to bring up the "Run" dialog box. In the field type "optionalfeature" and hit enter. This will bring up the "Windows Features" window. 
+
+Alternatively, we can right-click on the Start button and click 'Run,' then type "optionalfeatures" and hit enter. 
 
 <p>
 <img src="https://github.com/timsherrell/osticket-prereqs/assets/144177449/dda6d761-63bd-4a9f-8ca6-c68d3a52f574"/>
