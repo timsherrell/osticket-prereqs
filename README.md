@@ -28,7 +28,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <h2>Installation Steps</h2>
 
-In this first part of this tutorial we are going to setup a local server with IIS (Internet Information Services) in Windows. If all you need to know is how to set this up you can stop after we've pulled up the broswer and navigated to our local IP address. 
+In this first part of this tutorial we are going to setup a local server with IIS (Internet Information Services) in Windows. If all you need to know is how to set this up you can stop after we've pulled up the broswer and navigated to our localhost address. 
 
 In the second part we will setup the free ticketing system osTicket running on the IIS server.
 
@@ -50,7 +50,7 @@ Click OK.
 
 ![IIS Installation](https://github.com/timsherrell/osticket-prereqs/blob/main/ISS%20install.gif)
 
-Internet Information Services should be working now. We can check by opening a browser and navigating to 127.0.0.1 in the address bar. This should bring up the Internet Information Services website. If it doesn't you may need to uninstall and reinstall again by going back to Windows Features, unclicking and reclicking everything again. 
+Internet Information Services should be working now. We can check by opening a browser and navigating to localhost - 127.0.0.1 in the address bar. This should bring up the Internet Information Services website. If it doesn't you may need to uninstall and reinstall again by going back to Windows Features, unclicking and reclicking everything again. 
 
 ![localhost IIS](https://github.com/timsherrell/osticket-prereqs/blob/main/Loopback.gif)
 
