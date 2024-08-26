@@ -34,19 +34,21 @@ In the second part we will setup the free ticketing system osTicket running on t
 
 Let's get into it.
 
-First hit Windows Key + R to bring up the "Run" dialog box. In the field type "optionalfeature" and hit enter. This will bring up the "Windows Features" window. 
+First hit Windows Key + R to bring up the "Run" dialog box. In the text field enter "optionalfeature" and press enter. This will bring up the "Windows Features" dialog box. 
 
-Alternatively, we can right-click on the Start button and click 'Run,' then type "optionalfeatures" and hit enter. 
+Alternatively, we can right-click on the Start button and click 'Run,' then type "optionalfeatures." 
 <br />
 
 
 ![run optional features](https://github.com/timsherrell/osticket-prereqs/blob/main/optionalfeatures1.gif)
 
-This will bring up the Windows Features window where we will choose the options necessary to install IIS. 
+This will bring up the Windows Features dialog box where we will choose the options necessary to install IIS. 
 
-From here, check the box next to Internet Information Services and click the '+' next to it to expand it. Expand Application Development Features click the CGI box, then collapse Application Development Features again by hitting the '-' next to it. Exapnd Common HTTP Features, make sure all the boxes are checked. 
+From here, check the box next to Internet Information Services to enable it, then click the exand icon (+) next to it to expand it's options. Expand 'Application Development Features' and check the 'CGI' box, then collapse Application Development Features. Finally, expand Common HTTP Features and make sure all the boxes under it are check. 
 
 Click OK. 
+
+Windows will briefly display a progess window and begin installing the IIS components. Once its finished it may ask you to restart. 
 
 ![IIS Installation](https://github.com/timsherrell/osticket-prereqs/blob/main/ISS%20install.gif)
 
